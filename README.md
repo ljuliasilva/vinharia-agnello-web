@@ -1,6 +1,6 @@
 
-=======
-                                              # 🍷 Vinharia Agnello 🍷
+
+                                              🍷 Vinharia Agnello 🍷
 
                                      --- Sistema básico de gerenciamento de Vinhos --- 
                                             
@@ -10,10 +10,7 @@
 
  ## 📌 Sobre o projeto
 
--- A Vinharia Agnello é um projeto acadêmico desenvolvido para o Checkpoint da FIAP. 
-<<<<<<< HEAD
-
-=======
+-- A Vinharia Agnello é um projeto acadêmico desenvolvido para o Checkpoint da FIAP.
 
 -- A aplicação permite cadasrar informações básicas de vinhos, como nome, tipo, safra e quantidade de estoque, 
 utlilizando HTML, CSS e JavaScript.
