@@ -61,7 +61,10 @@ vinharia-agnello/
 ## 🌐 GitHub Pages
 
 🔗 Acesse o projeto:
-[INSIRA AQUI O LINK DO GITHUB PAGES]
+https://ljuliasilva.github.io/vinharia-agnello-web/
+
+🔗 Acesse o repositório:
+https://github.com/ljuliasilva/vinharia-agnello-web.git
 
 
  ## 👥 Integrantes
